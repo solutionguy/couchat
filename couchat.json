@@ -1,0 +1,61 @@
+[
+  {
+    "couchat": {
+      "doctype": "message",
+      "from_u": "chatuser002",
+      "mime": "text/plain",
+      "payload": "Got the message, loud and clear....",
+      "seen_at": "2016-07-14T00:12:04.120z",
+      "sent_at": "2016-07-14T00:12:01.120z",
+      "to_u": "chatuser001"
+    }
+  },
+  {
+    "couchat": {
+      "doctype": "message",
+      "from_u": "chatuser002",
+      "mime": "text/plain",
+      "payload": "Hope you have been well?",
+      "seen_at": "2016-07-14T00:12:20.120z",
+      "sent_at": "2016-07-14T00:12:12.120z",
+      "to_u": "chatuser001"
+    }
+  },
+  {
+    "couchat": {
+      "doctype": "message",
+      "from_u": "chatuser001",
+      "mime": "text/plain",
+      "payload": "Hello...! This is a Test Message....",
+      "seen_at": "2016-07-14T00:10:02.120z",
+      "sent_at": "2016-07-14T00:10:01.120z",
+      "to_u": "chatuser002"
+    }
+  },
+  {
+    "couchat": {
+      "accountlocked": "false",
+      "bgcolor": "Violet",
+      "created_at": "2016-07-10T11:38:52.280Z",
+      "doctype": "user",
+      "email": "chatuser001@couchat.com",
+      "font": "Arial",
+      "font-size": "12",
+      "lastlogin": "2016-07-10T11:40:52.280Z",
+      "password": "AKJH29387KLJS"
+    }
+  },
+  {
+    "couchat": {
+      "accountlocked": "false",
+      "bgcolor": "Blue",
+      "created_at": "2016-07-09T11:38:52.280Z",
+      "doctype": "user",
+      "email": "chatuser002@couchat.com",
+      "font": "Tahoma",
+      "font-size": "11",
+      "lastlogin": "2016-07-11T01:40:52.280Z",
+      "oauthtocken": "AKJH29JJJKLJS"
+    }
+  }
+]
